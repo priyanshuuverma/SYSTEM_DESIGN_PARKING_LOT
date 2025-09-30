@@ -20,3 +20,6 @@
       2. No two vehicles should get the same parking spot.
 
 <img width="1919" height="813" alt="image" src="https://github.com/user-attachments/assets/11aed4a4-abaa-4773-8563-88d725897917" />
+
+# OUTPUT
+<img width="1918" height="1090" alt="image" src="https://github.com/user-attachments/assets/dc1a5a1a-c4bc-4bbe-85d6-d8d4ee9e8664" />
