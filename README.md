@@ -18,3 +18,5 @@
    ## C. Concurrency
       1. We are building a single parking lot with no scale in the future.
       2. No two vehicles should get the same parking spot.
+
+<img width="1919" height="813" alt="image" src="https://github.com/user-attachments/assets/11aed4a4-abaa-4773-8563-88d725897917" />
